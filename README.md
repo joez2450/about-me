@@ -3,8 +3,8 @@
 ### **High School Of Telecommunication Arts and Technology**
 #### joez5@nycstudents.net
 ----
-
-My name is Joe, and I was born in the heart of New York, Manhattan in July of 2008. I moved to China shortly after my birth when I was one year old, but came back to NYC upon my fourth birthday to start my school career. Now, I am currently a sophomore student at the High School Of Telecommunication Arts and Technology, where I am enrolled in the SEP program.
+### Short Biography
+My name is Joe, and I was born in Manhattan, New York in July of 2008. When I was just one year old, I moved to China with my family. I was raised in my Grandparent's village for four years, and I came back to NYC upon my fourth birthday in 2012, to start my school career. Now, I am currently a sophomore student at the High School Of Telecommunication Arts and Technology, where I am enrolled in the SEP program.
 
 ---
 #### School Schedule
