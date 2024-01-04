@@ -16,16 +16,18 @@ My name is Joe, and I was born in Manhattan, New York in July of 2008. When I wa
 5. SEP10
 6. Chemistry
 7. ELA
-8. Spanish
+8. Spanish 2
 9. Yoga
 ---
 #### Favorite Hobbies
 * Volunteering
     * Park Clean-Ups, Street Clean-Ups
 * Hangout with Friends
+* Playing Sports
 * Playing Games
     * Uno
     * Minecraft
+    * Valorant
 * Listening to Music
 
 
